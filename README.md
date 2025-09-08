@@ -5,7 +5,7 @@
 <img align="center" src="https://camo.githubusercontent.com/903b0158b60d96357ba2a2b5ee920e5b713f14d8c748bd77311459b66bca671b/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d323179636d64715a7a526864474a736347357463323033596d357762476735616a467261326c6c65584273656e46314f576f3464795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f495539717247447947546568645a684559472f67697068792e77656270" width="450"/><br>
 
 ### 🌟 About Me 🌟
-<h3 align="center">Lead Volunteer IEEAIUBSB || Campus Ambassador ICAI ||</h3>
+<h3 align="left">Lead Volunteer IEEAIUBSB || Campus Ambassador ICAI ||</h3>
 
 - 🌱 *I’m currently learning* **Computer Vision, Machine Learning, Deep Learning, Natural Language Processing & Web Development**
 - 💬 *Ask me about* **Python ,SQL , web Development,Designing or Anything**
