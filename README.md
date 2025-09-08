@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi, I'm <a href="https://www.linkedin.com/in/arnob-aich-643a99306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Arnob Aich Anurag </a>😊 </h1>
 
-<img align="right" src="https://camo.githubusercontent.com/903b0158b60d96357ba2a2b5ee920e5b713f14d8c748bd77311459b66bca671b/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d323179636d64715a7a526864474a736347357463323033596d357762476735616a467261326c6c65584273656e46314f576f3464795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f495539717247447947546568645a684559472f67697068792e77656270" width="450"/><br>
+<img align="left" src="https://camo.githubusercontent.com/903b0158b60d96357ba2a2b5ee920e5b713f14d8c748bd77311459b66bca671b/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d323179636d64715a7a526864474a736347357463323033596d357762476735616a467261326c6c65584273656e46314f576f3464795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f495539717247447947546568645a684559472f67697068792e77656270" width="450"/><br>
 
 ### 🌟 About Me 🌟
 <h3 align="center">Lead Volunteer IEEAIUBSB || Campus Ambassador ICAI ||</h3>
@@ -54,23 +54,15 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 <1--![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)-->
 <br>
-### 📊 GitHub Language Statistics  
+### 📊 GitHub Statistics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnob10150&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-
-### 📈 GitHub Activity Statistics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arnob10150&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
-### 🔥 GitHub Streak  
+</p>  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnob10150&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <h3 align="center">Thank you for visiting my profile! 😊</h3>
-<p align="center"> <img center="left" src="https://camo.githubusercontent.com/6ad285a07f75b1dd9ddfd3f4d320e3aa10c4019f55c37df0c134ff68710fdc4c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f312a3634316a57554a736149493659583178395f316c52412e676966" width="600" alt="arnobaich" /></p><br><br>
+<p align="center"> <img center="left" src="https://camo.githubusercontent.com/6ad285a07f75b1dd9ddfd3f4d320e3aa10c4019f55c37df0c134ff68710fdc4c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f312a3634316a57554a736149493659583178395f316c52412e676966" width="900" alt="arnobaich" /></p><br><br>
