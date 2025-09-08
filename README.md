@@ -13,8 +13,7 @@
 - 🌱 *I’m currently learning* **Computer Vision, Machine Learning, Deep Learning, Natural Language Processing & Web Development**
 - 💬 *Ask me about* **Python ,SQL , web Development,Designing or Anything**
 - 📫 How to reach me<p>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnob-aich-643a99306)</p> 
-- ⚡ About Me: <br>
-- 📍 *Location:**Bangladesh**. <br>
+- 📍 *Location:Bangladesh. <br>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -55,7 +54,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 <!--![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)-->
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-<1--![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)-->
 <br>
 ### 📊 GitHub Statistics
 <p align="center">
