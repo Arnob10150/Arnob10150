@@ -60,8 +60,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arnob10150&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>  
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnob10150&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <h3 align="center">Thank you for visiting my profile! 😊</h3>
