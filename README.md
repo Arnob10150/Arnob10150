@@ -12,10 +12,6 @@
 
 - 🌱 *I’m currently learning* **Computer Vision, Machine Learning, Deep Learning, Natural Language Processing & Web Development**
 - 💬 *Ask me about* **Python ,SQL , web Development,Designing or Anything**
-- 📫 How to reach me<p>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnob-aich-643a99306)</p> 
-- 📍 *Location:Bangladesh. <br>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--<a href="https://twitter.com/arnob10150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnob10150" height="30" width="40" /></a>-->
