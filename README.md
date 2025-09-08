@@ -73,4 +73,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnob10150&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <h3 align="center">Thank you for visiting my profile! 😊</h3>
-<p align="center"> <img center="left" src="https://camo.githubusercontent.com/6ad285a07f75b1dd9ddfd3f4d320e3aa10c4019f55c37df0c134ff68710fdc4c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f312a3634316a57554a736149493659583178395f316c52412e676966" height="50" width="210" alt="arnobaich" /></p><br><br>
+<p align="center"> <img center="left" src="https://camo.githubusercontent.com/6ad285a07f75b1dd9ddfd3f4d320e3aa10c4019f55c37df0c134ff68710fdc4c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f312a3634316a57554a736149493659583178395f316c52412e676966" height="50" width="600" alt="arnobaich" /></p><br><br>
