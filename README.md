@@ -55,10 +55,8 @@
 <1--![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)-->
 <br>
 ### 📊 GitHub Statistics  
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnob10150&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arnob10150&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnob10150&theme=tokyonight" alt="GitHub Streak" />
 </p>
